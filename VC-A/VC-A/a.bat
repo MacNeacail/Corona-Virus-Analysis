@@ -1,0 +1,2 @@
+erase *.pdf
+erase *.tif

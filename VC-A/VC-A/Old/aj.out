@@ -1,0 +1,814 @@
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                             
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                             
+     FFT Input Data 
+
+     Count     Value 
+           1  -28.48470       32.00000    
+     FFT Input Data 
+
+     Count     Value 
+           2   9.090758       15.00000    
+     FFT Input Data 
+
+     Count     Value 
+           3  -110.9864       234.0000    
+     FFT Input Data 
+
+     Count     Value 
+           4  -9.287766       16.00000    
+     FFT Input Data 
+
+     Count     Value 
+           5  -1.945389       2.000000    
+     FFT Input Data 
+
+     Count     Value 
+           6  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+           7   1.865682       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+           8  -56.07653       82.00000    
+     FFT Input Data 
+
+     Count     Value 
+           9  -13.36718       16.00000    
+     FFT Input Data 
+
+     Count     Value 
+          10  -2.297338       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+          11  -9.298903       41.00000    
+     FFT Input Data 
+
+     Count     Value 
+          12  -83.08417       258.0000    
+     FFT Input Data 
+
+     Count     Value 
+          13  -8.593180       13.00000    
+     FFT Input Data 
+
+     Count     Value 
+          14  -5.482212       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+          15  -5.017937       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+          16  -68.72266       76.00000    
+     FFT Input Data 
+
+     Count     Value 
+          17   1.177484       4.000000    
+     FFT Input Data 
+
+     Count     Value 
+          18   11.32771       30.00000    
+     FFT Input Data 
+
+     Count     Value 
+          19  -4376.283       5648.000    
+     FFT Input Data 
+
+     Count     Value 
+          20  0.9639984       2.000000    
+     FFT Input Data 
+
+     Count     Value 
+          21  0.7796218       2.000000    
+     FFT Input Data 
+
+     Count     Value 
+          22  0.9578948       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+          23  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          24  -13.62728       18.00000    
+     FFT Input Data 
+
+     Count     Value 
+          25  -22.51460       31.00000    
+     FFT Input Data 
+
+     Count     Value 
+          26 -0.9457765       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          27  -3750.596       4283.000    
+     FFT Input Data 
+
+     Count     Value 
+          28  0.9116451       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          29 -0.9537764       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          30  -14.76283       33.00000    
+     FFT Input Data 
+
+     Count     Value 
+          31  -20.79315       24.00000    
+     FFT Input Data 
+
+     Count     Value 
+          32 -0.9023141       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          33  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          34  -66.30371       81.00000    
+     FFT Input Data 
+
+     Count     Value 
+          35  -3610.520       3728.000    
+     FFT Input Data 
+
+     Count     Value 
+          36   2.752056       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+          37 -0.9653264       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          38  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          39  -15.69378       22.00000    
+     FFT Input Data 
+
+     Count     Value 
+          40  -45.22320       76.00000    
+     FFT Input Data 
+
+     Count     Value 
+          41  -1797.512       2925.000    
+     FFT Input Data 
+
+     Count     Value 
+          42  -67.82506       151.0000    
+     FFT Input Data 
+
+     Count     Value 
+          43  0.9469419       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          44  -6.450994       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+          45  -3.018710       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+          46  -7.201731       11.00000    
+     FFT Input Data 
+
+     Count     Value 
+          47  -11.60201       32.00000    
+     FFT Input Data 
+
+     Count     Value 
+          48 -0.2829514       26.00000    
+     FFT Input Data 
+
+     Count     Value 
+          49 -0.9570296       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          50  -10.99675       12.00000    
+     FFT Input Data 
+
+     Count     Value 
+          51  -25.51337       69.00000    
+     FFT Input Data 
+
+     Count     Value 
+          52  -7.918752       24.00000    
+     FFT Input Data 
+
+     Count     Value 
+          53  -55.18233       175.0000    
+     FFT Input Data 
+
+     Count     Value 
+          54  -2.564517       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+          55  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          56  -61.00052       96.00000    
+     FFT Input Data 
+
+     Count     Value 
+          57  -799.9155       1185.000    
+     FFT Input Data 
+
+     Count     Value 
+          58  -167.0663       186.0000    
+     FFT Input Data 
+
+     Count     Value 
+          59  -2.961787       8.000000    
+     FFT Input Data 
+
+     Count     Value 
+          60   2.770351       4.000000    
+     FFT Input Data 
+
+     Count     Value 
+          61  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          62   13.15240       26.00000    
+     FFT Input Data 
+
+     Count     Value 
+          63  0.7973105       2.000000    
+     FFT Input Data 
+
+     Count     Value 
+          64  -4.058885       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+          65  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          66  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          67  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          68  -79.80752       83.00000    
+     FFT Input Data 
+
+     Count     Value 
+          69  -29724.05       30250.00    
+     FFT Input Data 
+
+     Count     Value 
+          70  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          71  -4.683405       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+          72 -0.9640785       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+          73  -5.424473       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+          74  -2811.996       3706.000    
+     FFT Input Data 
+
+     Count     Value 
+          75  -10.57231       12.00000    
+     FFT Input Data 
+
+     Count     Value 
+          76  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          77  -26.75697       59.00000    
+     FFT Input Data 
+
+     Count     Value 
+          78  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          79  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          80  -2.671639       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+          81  -13.96577       15.00000    
+     FFT Input Data 
+
+     Count     Value 
+          82  0.3982894       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+          83  -1.716799       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+          84  0.9407985       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+          85  -1.113717       8.000000    
+     FFT Input Data 
+
+     Count     Value 
+          86   3.491143       10.00000    
+     FFT Input Data 
+
+     Count     Value 
+          87  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+          88  -23.78746       60.00000    
+     FFT Input Data 
+
+     Count     Value 
+          89  -121.7184       152.0000    
+     FFT Input Data 
+
+     Count     Value 
+          90  -7.030144       8.000000    
+     FFT Input Data 
+
+     Count     Value 
+          91  -821.6998       1005.000    
+     FFT Input Data 
+
+     Count     Value 
+          92  -233.2827       342.0000    
+     FFT Input Data 
+
+     Count     Value 
+          93  -1456.991       2885.000    
+     FFT Input Data 
+
+     Count     Value 
+          94  -26.79570       45.00000    
+     FFT Input Data 
+
+     Count     Value 
+          95  -568.0624       610.0000    
+     FFT Input Data 
+
+     Count     Value 
+          96  -16.50326       17.00000    
+     FFT Input Data 
+
+     Count     Value 
+          97  -30.65335       93.00000    
+     FFT Input Data 
+
+     Count     Value 
+          98  -10656.06       18045.00    
+     FFT Input Data 
+
+     Count     Value 
+          99   3.583527       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+         100  -143.7522       152.0000    
+     FFT Input Data 
+
+     Count     Value 
+         101  -8.904213       15.00000    
+     FFT Input Data 
+
+     Count     Value 
+         102  -3.568682       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         103  -12.09755       16.00000    
+     FFT Input Data 
+
+     Count     Value 
+         104  -13.15287       16.00000    
+     FFT Input Data 
+
+     Count     Value 
+         105  -4.890553       14.00000    
+     FFT Input Data 
+
+     Count     Value 
+         106   1.930504       16.00000    
+     FFT Input Data 
+
+     Count     Value 
+         107   1.876748       8.000000    
+     FFT Input Data 
+
+     Count     Value 
+         108  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         109  -1.142992       11.00000    
+     FFT Input Data 
+
+     Count     Value 
+         110  -9.179032       13.00000    
+     FFT Input Data 
+
+     Count     Value 
+         111  -3.143418       14.00000    
+     FFT Input Data 
+
+     Count     Value 
+         112  -2.656720       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+         113 -0.9413337       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+         114  -22.73777       25.00000    
+     FFT Input Data 
+
+     Count     Value 
+         115  -24.00077       46.00000    
+     FFT Input Data 
+
+     Count     Value 
+         116  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         117   1.735843       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+         118  -29.42607       36.00000    
+     FFT Input Data 
+
+     Count     Value 
+         119 -2.0730853E-02   3.000000    
+     FFT Input Data 
+
+     Count     Value 
+         120  -13.14290       17.00000    
+     FFT Input Data 
+
+     Count     Value 
+         121  0.8780904       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+         122 -0.9463202       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+         123   5.715026       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         124  -1575.056       1707.000    
+     FFT Input Data 
+
+     Count     Value 
+         125  -36.57712       51.00000    
+     FFT Input Data 
+
+     Count     Value 
+         126   1.748076       4.000000    
+     FFT Input Data 
+
+     Count     Value 
+         127  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         128  -1.355152       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+         129  0.9304531       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+         130  -32.68296       82.00000    
+     FFT Input Data 
+
+     Count     Value 
+         131  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         132   3.992177       6.000000    
+     FFT Input Data 
+
+     Count     Value 
+         133  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         134  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         135  -1910.338       3223.000    
+     FFT Input Data 
+
+     Count     Value 
+         136  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         137   4.061456       10.00000    
+     FFT Input Data 
+
+     Count     Value 
+         138  0.3206384       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         139  -18.45498       20.00000    
+     FFT Input Data 
+
+     Count     Value 
+         140  -35.96074       37.00000    
+     FFT Input Data 
+
+     Count     Value 
+         141  -23.79383       30.00000    
+     FFT Input Data 
+
+     Count     Value 
+         142  2.8898954E-02   2.000000    
+     FFT Input Data 
+
+     Count     Value 
+         143  -42.91691       102.0000    
+     FFT Input Data 
+
+     Count     Value 
+         144  -6.701845       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         145  -112.4273       124.0000    
+     FFT Input Data 
+
+     Count     Value 
+         146  -1.833709       4.000000    
+     FFT Input Data 
+
+     Count     Value 
+         147  -40.58291       83.00000    
+     FFT Input Data 
+
+     Count     Value 
+         148  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         149   7.750900       9.000000    
+     FFT Input Data 
+
+     Count     Value 
+         150  -556.4417       618.0000    
+     FFT Input Data 
+
+     Count     Value 
+         151  -292.3536       299.0000    
+     FFT Input Data 
+
+     Count     Value 
+         152  -291.0366       350.0000    
+     FFT Input Data 
+
+     Count     Value 
+         153  -136.1475       373.0000    
+     FFT Input Data 
+
+     Count     Value 
+         154  -5.358076       40.00000    
+     FFT Input Data 
+
+     Count     Value 
+         155  -2.978085       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         156  -82.15382       217.0000    
+     FFT Input Data 
+
+     Count     Value 
+         157  -640.7452       704.0000    
+     FFT Input Data 
+
+     Count     Value 
+         158  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         159  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         160  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         161  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         162  -11.58157       21.00000    
+     FFT Input Data 
+
+     Count     Value 
+         163   4.471674       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+         164  -22.59885       63.00000    
+     FFT Input Data 
+
+     Count     Value 
+         165  -2.242770       8.000000    
+     FFT Input Data 
+
+     Count     Value 
+         166  -29.66111       76.00000    
+     FFT Input Data 
+
+     Count     Value 
+         167  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         168  -2.775619       9.000000    
+     FFT Input Data 
+
+     Count     Value 
+         169  -8.425669       10.00000    
+     FFT Input Data 
+
+     Count     Value 
+         170  -6.618762       8.000000    
+     FFT Input Data 
+
+     Count     Value 
+         171  -9.061173       13.00000    
+     FFT Input Data 
+
+     Count     Value 
+         172  -23.10878       38.00000    
+     FFT Input Data 
+
+     Count     Value 
+         173  -11.80569       24.00000    
+     FFT Input Data 
+
+     Count     Value 
+         174  -34.63476       69.00000    
+     FFT Input Data 
+
+     Count     Value 
+         175  -15.73468       74.00000    
+     FFT Input Data 
+
+     Count     Value 
+         176  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         177  -7136.386       15036.00    
+     FFT Input Data 
+
+     Count     Value 
+         178  -2.345329       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+         179  -35.80306       39.00000    
+     FFT Input Data 
+
+     Count     Value 
+         180 -0.9410636       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+         181  -438.7964       1527.000    
+     FFT Input Data 
+
+     Count     Value 
+         182  -332.2343       713.0000    
+     FFT Input Data 
+
+     Count     Value 
+         183   1.061079       3.000000    
+     FFT Input Data 
+
+     Count     Value 
+         184  -4.011250       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         185  -5.424125       13.00000    
+     FFT Input Data 
+
+     Count     Value 
+         186  -18.04906       28.00000    
+     FFT Input Data 
+
+     Count     Value 
+         187  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         188  -5.825679       7.000000    
+     FFT Input Data 
+
+     Count     Value 
+         189   2.628640       4.000000    
+     FFT Input Data 
+
+     Count     Value 
+         190  -14.96545       22.00000    
+     FFT Input Data 
+
+     Count     Value 
+         191  -1016.930       1620.000    
+     FFT Input Data 
+
+     Count     Value 
+         192 -0.9357731       1.000000    
+     FFT Input Data 
+
+     Count     Value 
+         193  0.0000000E+00  0.0000000E+00
+     FFT Input Data 
+
+     Count     Value 
+         194  -51.55077       91.00000    
+     FFT Input Data 
+
+     Count     Value 
+         195  -43.66585       46.00000    
+     FFT Input Data 
+
+     Count     Value 
+         196  -21081.46       25019.00    
+     FFT Input Data 
+
+     Count     Value 
+         197   13.18845       14.00000    
+     FFT Input Data 
+
+     Count     Value 
+         198  -78355.07       82697.00    
+     FFT Input Data 
+
+     Count     Value 
+         199   1.861360       4.000000    
+     FFT Input Data 
+
+     Count     Value 
+         200   3.426040       10.00000    
+     FFT Input Data 
+
+     Count     Value 
+         201  -2.244437       5.000000    
+     FFT Input Data 
+
+     Count     Value 
+         202   3.165365       7.000000    
